@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phunware Sample</string>
+    <string name="hello_world">Hello Phunware!</string>
+    <string name="action_settings">Settings</string>
+    <string name="play">Play</string>
+    <string name="title_activity_location">Location</string>
+    <string name="info">My Info</string>
+
+</resources>
